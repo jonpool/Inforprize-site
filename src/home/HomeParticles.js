@@ -60,10 +60,6 @@ const list = [
         title: 'Getting tickets to the big show'
     }
 ]
-<<<<<<< HEAD
-=======
-
->>>>>>> master
 class HomeParticles extends Component{
     constructor(props) {
         super(props);
